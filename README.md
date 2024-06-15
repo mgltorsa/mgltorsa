@@ -44,7 +44,7 @@ or <a href="mailto:mgltorsa@gmail.com"><b>email</b></a> me!
 
 <div align="center">
 
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
+<i>And here... A random dev joke for you!</i><br>
 <img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
 </div>

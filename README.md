@@ -14,7 +14,8 @@ You have finally discovered my Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 
 Ask me anything <a href="https://github.com/mgltorsa/mgltorsa/issues/new"><b>here</b></a><br>
-or <a href="mailto:mgltorsa@gmail.com"><b>email</b></a> me
+or <a href="mailto:mgltorsa@gmail.com"><b>email</b></a> me!
+
 <i>Happy Coding!</i> 😊
 
 </div>
@@ -22,9 +23,9 @@ or <a href="mailto:mgltorsa@gmail.com"><b>email</b></a> me
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a Software Engineer with 4+ years of experience developing Full Stack solutions. Mainly web and Mobile applications.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence and integrations with web and mobile development.\
-✍️ &nbsp;In my free time, I pursue personal application projects, freelancing and Competitive programming as hobbies/side hustles. I also enjoy reading fantasy books, Dark novels and playing good music! 🎼🎺🎷🎻.\
+🎓 &nbsp;I'm a Software Engineer with 4+ years of experience developing full-stack solutions. Mainly web and Mobile applications.\
+🌱 &nbsp;I'm on track to learn more about Artificial Intelligence and its integrations with web and mobile development.\
+✍️ &nbsp;In my free time, I pursue personal application projects, freelancing and Competitive programming as hobbies/side hustles. I also enjoy reading fantasy books and dark novels and listening to good music! 🎼🎺🎷🎻.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mgltorsa@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.mgltorsa.com/resume.html) for more details about me. I'm open to feedback and suggestions!
@@ -44,7 +45,7 @@ or <a href="mailto:mgltorsa@gmail.com"><b>email</b></a> me
 <div align="center">
 
 <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+<img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes">
 
 </div>
 

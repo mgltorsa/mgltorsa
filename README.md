@@ -23,12 +23,12 @@ or <a href="mailto:mgltorsa@gmail.com"><b>email</b></a> me!
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm a Software Engineer with 4+ years of experience developing full-stack solutions. Mainly web and Mobile applications.\
-🌱 &nbsp;I'm on track to learn more about Artificial Intelligence and its integrations with web and mobile development.\
-✍️ &nbsp;In my free time, I pursue personal application projects, freelancing and Competitive programming as hobbies/side hustles. I also enjoy reading fantasy books and dark novels and listening to good music! 🎼🎺🎷🎻.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+🎓 &nbsp;I'm a Software Engineer with 3+ years of experience developing full-stack solutions. Mainly web and Mobile applications.\
+🌱 &nbsp;I'm on track to learn more about Artificial Intelligence and its web and mobile development integrations.\
+✍️ &nbsp;In my free time, I pursue personal application projects, freelancing, and Competitive programming as hobbies/side hustles. I also enjoy reading fantasy books and dark novels and listening to good music! 🎼🎺🎷🎻.\
+💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at mgltorsa@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://www.mgltorsa.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [LinkedIn](https://www.linkedin.com/in/mgltorsa/) for more details about me. I'm open to feedback and suggestions!
 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
